@@ -17,5 +17,5 @@ I’m excited about the journey ahead and the chance to learn, grow, and make a 
 
 * College: City College of Angeles
 ## My Projects
-* Midterm Lab Task 1: 
-* Midterm Lab Task 2: 
+* Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201)
+* Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY] 
