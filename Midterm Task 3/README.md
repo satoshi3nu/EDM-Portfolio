@@ -48,11 +48,17 @@ VISUALS/Reports stated under number 2.
 
   
 ## Here is the Screenshot of my Reference
-![REFERENCE Table]()
+![REFERENCE Table](Image/Reference%20Table.jpg)
+![REFERENCE Table](Image/Reference%20Table%20(2).jpg)
+![REFERENCE Table](Image/Reference%20Table%20(3).jpg)
+## New Queries
+![Power Query](Image/Sector%20By%20Job%20title%20dup.jpg)
+![Power Query](Image/Sector%20By%20Min%20and%20Max%20Sal%20dup.jpg)
 ## Here is the Screenshot of my Dashboard
-![DASHBOARD Table]()
+![DASHBOARD Table](Image/DASHBOARD.jpg)
+![DASHBOARD Table](Image/DASHBOARD%20(2).jpg)
 ## Here is the Screenshot of my Map
-![MAP]()
+![MAP](Image/MAP.jpg)
 
 
 
