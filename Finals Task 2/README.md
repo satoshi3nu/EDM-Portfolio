@@ -6,7 +6,7 @@ tables. Capture all entities and their attributes, and define the relationships 
 submissions, and assignments. Identify the primary and foreign keys and ensure proper
 representation of any dependent or weak entities.
 
-![ER model]()
+![ER model](Image%20%26%20File/Model.jpg)
 
 ## REQUIRED OUTPUT
 1. Query statements (Task 1-4 including the table relationship)
@@ -27,21 +27,37 @@ representation of any dependent or weak entities.
 - In the new tab, type the following SQL command to create a new database (`CREATE DATABASE student_submission_db;` & `USE student_submission_db;`)
 - Click "Execute" to execute the command
 
-## Creating Tables
-![]()
-- Creating Student Table
+## Creating Tables Instruction
+* student table:
+`username: string(varchar), up to 50 characters`
+
+* assignment table:
+`shortname: string(varchar), up to 50 characters`
+`due_date: Date, Cannot be null`
+`url: string(varchar), up to 50 characters, can be null`
+
+* submission table:
+`username: string(varchar), up to 50 characters`
+`shortname: string(varchar), up to 50 characters`
+`version: integer, represent the version of the submission`
+`submit_date: date, cannot be null`
+`data: text`
+
+## Creating Table
+
+1. Creating Student Table
   
 `CREATE TABLE student (studentusername VARCHAR(50) PRIMARY KEY);`
 #### TABLE STRUCTURE
-![]()
+![Student Table](Image%20%26%20File/student_tbl.jpg)
 
-- Creating Assignment Table
+2. Creating Assignment Table
 
 ` CREATE TABLE assignment (shortname VARCHAR(50) PRIMARY KEY, due_date DATE NOT NULL, url VARCHAR(50)); `
 #### TABLE STRUCTURE
-![]()
+![Assignment Table](Image%20%26%20File/assignment_tbl.jpg)
 
-- Creating Submission Table
+3. Creating Submission Table
   
 `CREATE TABLE submission (
     username VARCHAR(50),
@@ -58,13 +74,15 @@ representation of any dependent or weak entities.
         ON UPDATE CASCADE
 );`
 #### TABLE STRUCTURE
-![]()
+![Submission Table](Image%20%26%20File/submission_tbl.jpg)
 
 ### HERE IS THE ER Diagram OR Relational schema
-![]()
+![](Image%20%26%20File/ER%20Diagram.jpg)
 
 
-#### HERE IS THE MYSQL FILE
-[Student Table]()  
-[Submission Table]()  
-[Assignment Table]()  
+#### HERE IS MYSQL FILE
+ [Student_Table.SQL](Image%20%26%20File/student_tbl.sql)
+ 
+ [Assignment_Table.SQL](Image%20%26%20File/assignment_tbl.sql)
+ 
+ [Submission_Table.SQL](Image%20%26%20File/submission_tbl.sql)
