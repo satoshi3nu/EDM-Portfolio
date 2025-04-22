@@ -53,7 +53,7 @@ representation of any dependent or weak entities.
 
 2. Creating Assignment Table
 
-` CREATE TABLE assignment (shortname VARCHAR(50) PRIMARY KEY, due_date DATE NOT NULL, url VARCHAR(50)); `
+`CREATE TABLE assignment (shortname VARCHAR(50) PRIMARY KEY, due_date DATE NOT NULL, url VARCHAR(50));`
 #### TABLE STRUCTURE
 ![Assignment Table](Image%20%26%20File/assignment_tbl.jpg)
 
