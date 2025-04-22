@@ -1,0 +1,2 @@
+CREATE DATABASE student_submission_db;
+USE student_submission_db;
