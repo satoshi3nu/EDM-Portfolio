@@ -23,3 +23,6 @@ I’m excited about the journey ahead and the chance to learn, grow, and make a 
 * Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201)
 * Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm%20Task%202)
 * Midterm Lab Task 3: [Creating Pivot Tables and Charts](Midterm%20Task%203)
+* Finals Lab Task 1: [Multi Level Company Database](Finals%20Task%201)
+* Finals Lab Task 2: [Transform ER into Relational tables](Finals%20Task%202)
+* Finals Lab Task 3: [Table Manipulation](Finals%20Task%203)
