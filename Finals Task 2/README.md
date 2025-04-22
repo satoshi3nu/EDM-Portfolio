@@ -76,11 +76,11 @@ representation of any dependent or weak entities.
 #### TABLE STRUCTURE
 ![Submission Table](Image%20%26%20File/submission_tbl.jpg)
 
-### HERE IS THE ER Diagram OR Relational schema
+## HERE IS THE ER Diagram OR Relational schema
 ![](Image%20%26%20File/ER%20Diagram.jpg)
 
 
-#### HERE IS MYSQL FILE
+## HERE IS MYSQL FILE
  [Student_Table.SQL](Image%20%26%20File/student_tbl.sql)
  
  [Assignment_Table.SQL](Image%20%26%20File/assignment_tbl.sql)
