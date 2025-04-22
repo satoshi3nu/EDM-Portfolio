@@ -1,0 +1,2 @@
+CREATE DATABASE multi_level_company;
+USE multi_level_company;

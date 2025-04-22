@@ -1,0 +1,2 @@
+CREATE TABLE employees (employee_id INT AUTO_INCREMENT PRIMARY KEY, employee_name VARCHAR(255) NOT NULL, manager_id INT, FOREIGN KEY (manager_id) REFERENCES employees(employee_id));
+DESCRIBE employees;
