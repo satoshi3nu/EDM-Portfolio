@@ -72,10 +72,10 @@ CODE: `CREATE TABLE managers (manager_id INT AUTO_INCREMENT PRIMARY KEY, employe
 #### QUERY STATEMENT & TABLE STRUCTURE
 ![managers_table](Image%20%26%20File/managers_tbl.jpg)
 
-### HERE IS THE ER Diagram OR Relational schema
+## HERE IS THE ER Diagram OR Relational schema
 ![](Image%20%26%20File/ER%20Diagram.jpg)
 
-#### HERE IS MYSQL FILE
+## HERE IS MYSQL FILE
  [Database.SQL](Image%20%26%20File/Database.sql)
  
  [employees_Table.SQL](Image%20%26%20File/employees_tbl.sql)
