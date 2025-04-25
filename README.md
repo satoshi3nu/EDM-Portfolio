@@ -26,3 +26,4 @@ I’m excited about the journey ahead and the chance to learn, grow, and make a 
 * Finals Lab Task 1: [Multi Level Company Database](Finals%20Task%201)
 * Finals Lab Task 2: [Transform ER into Relational tables](Finals%20Task%202)
 * Finals Lab Task 3: [Table Manipulation](Finals%20Task%203)
+* Finals Lab Task 3-1: [Using MYSQL Clause](Finals%20Task%203-1)
